@@ -13,6 +13,12 @@
       <itunes:name>并购早报</itunes:name>
       <itunes:email>xueer-bf@coze.email</itunes:email>
     </itunes:owner>
+    <itunes:image href="https://happyjudewayne.github.io/mna-daily-podcast/cover.jpg"/>
+    <image>
+      <url>https://happyjudewayne.github.io/mna-daily-podcast/cover.jpg</url>
+      <title>并购早报</title>
+      <link>https://happyjudewayne.github.io/mna-daily-podcast/</link>
+    </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
