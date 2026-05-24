@@ -13,9 +13,9 @@
       <itunes:name>并购早报</itunes:name>
       <itunes:email>xueer-bf@coze.email</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://cdn.jsdelivr.net/gh/happyjudewayne/mna-daily-podcast@v1.2/cover.jpg"/>
+    <itunes:image href="http://tfj4kn7fa.hd-bkt.clouddn.com/cover.jpg"/>
     <image>
-      <url>https://cdn.jsdelivr.net/gh/happyjudewayne/mna-daily-podcast@v1.2/cover.jpg</url>
+      <url>http://tfj4kn7fa.hd-bkt.clouddn.com/cover.jpg</url>
       <title>并购早报</title>
       <link>https://happyjudewayne.github.io/mna-daily-podcast/</link>
     </image>
@@ -27,7 +27,7 @@
       <title>670亿美元能源并购领衔全球市场</title>
       <description>今日并购早报聚焦全球重磅交易：NextEra Energy 670亿美元收购Dominion Energy重塑美国能源格局；A股埃夫特10亿并购盛普股份自救；珀莱雅3.5亿控股花知晓加码彩妆；浙江东方9.29亿增持杭州联合银行；礼来2亿美元收购生物公司。亚太并购分化，中国逆势增长23%，延江股份跨界并购告吹警示风险。</description>
       <pubDate>Fri, 22 May 2026 08:09:47 +0800</pubDate>
-      <enclosure url="https://www.coze.cn/s/NXRXxuLIddU/" length="2852864" type="audio/mpeg"/>
+      <enclosure url="http://tfj4kn7fa.hd-bkt.clouddn.com/audio/2026-05-22.mp3" length="2852864" type="audio/mpeg"/>
       <itunes:duration>11:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -35,7 +35,7 @@
       <title>中金1139亿三合一打造万亿券商 | 蓝思科技收购巨腾 | 腾讯收购喜马拉雅获批</title>
       <description>今日并购早报聚焦：中金公司1139亿三合一并购草案发布，万亿券商即将诞生；蓝思科技13.2亿港元收购巨腾国际布局AI硬件；腾讯12.6亿美元收购喜马拉雅获批附加5项条件；宏创控股635亿蛇吞象；Shell164亿美元收购ARC Resources；Biogen56亿美元收购Apellis。</description>
       <pubDate>Sun, 24 May 2026 13:19:18 +0800</pubDate>
-      <enclosure url="https://www.coze.cn/s/NwSsDPsB5sg/" length="749133" type="audio/mpeg"/>
+      <enclosure url="http://tfj4kn7fa.hd-bkt.clouddn.com/audio/2026-05-24.mp3" length="749133" type="audio/mpeg"/>
       <itunes:duration>3:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
