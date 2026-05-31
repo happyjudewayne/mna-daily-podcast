@@ -24,6 +24,14 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <item>
+      <title>永杰新材17.5亿收购奥科宁克 | 辉能科技257亿赴美SPAC上市 | 华升股份重启易信收购</title>
+      <description>今日并购早报聚焦：永杰新材17.5亿收购奥科宁克秦皇岛和昆山公司，加码固态电池赛道；辉能科技257亿赴美SPAC上市，固态电池赛道升温；华升股份重启易信科技收购已获上交所恢复审核；节能铁汉筹划重大资产重组；TCL科技8.45亿增持中环领先；东方雨虹5.42亿布局印尼；国风新材6.99亿收购金张科技已恢复审核。</description>
+      <pubDate>Sun, 31 May 2026 07:00:00 +0800</pubDate>
+      <enclosure url="http://tfj4kn7fa.hd-bkt.clouddn.com/audio/2026-05-31.mp3" length="976941" type="audio/mpeg"/>
+      <itunes:duration>4:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>华升股份收购易信科技 | 通业科技跨界半导体告吹 | 映宇宙融资布局AI算力</title>
       <description>今日并购早报聚焦：华升股份通过收购深圳易信科技二次修订稿，进军数据中心；通业科技9个月半导体收购告吹，因过渡期亏损分歧；东方雨虹5.42亿收购印尼两家公司；万隆光电23.25亿"蛇吞象"收购中控信息；映宇宙融资3.3亿港元收购高性能GPU；高盛预计2026年全球并购逼近历史纪录，Q1已超1.2万亿美元。</description>
       <pubDate>Sat, 30 May 2026 07:00:00 +0800</pubDate>
@@ -87,5 +95,14 @@
       <itunes:duration>3:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-  </channel>
+      <item>
+      <title>巴菲特68亿美元收购Taylor Morrison | 追觅俞浩入主嘉美包装 | 通业科技半导体收购告吹</title>
+      <description>今日并购早报聚焦：巴菲特68亿美元收购Taylor Morrison住宅公司，24%溢价；追觅科技俞浩通过两步走入主嘉美包装，要约收购完成明起停牌；艾德生物控制权变更停牌，百诚医药终止筹划复牌；通业科技9个月半导体收购告吹，过渡期亏损分歧成主因；北交所并购持续活跃，多家公司推进收购。</description>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="http://tfj4kn7fa.hd-bkt.clouddn.com/audio/2026-06-01.mp3" length="814125" type="audio/mpeg"/>
+      <itunes:duration>3:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+</channel>
 </rss>
