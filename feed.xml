@@ -135,5 +135,13 @@
       <itunes:duration>4:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-  </channel>
+  <item>
+    <title>并购早报 2026-06-08 | 北交所首单发股收购新三板，黑石131亿美元亚洲基金诞生</title>
+    <description>今日要点：秉扬科技开创北交所发股收购新三板首单；日联科技9.36亿收购菲莱测试切入光芯片测试赛道；黑石131亿美元亚洲三期基金完成募资；凯雷236亿元出售德国Flender。</description>
+    <pubDate>Mon, 08 Jun 2026 07:00:00 +0800</pubDate>
+    <enclosure url="http://tfj4kn7fa.hd-bkt.clouddn.com/audio/2026-06-08.mp3" length="1143597" type="audio/mpeg"/>
+    <itunes:duration>285</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
 </rss>
