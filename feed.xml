@@ -143,5 +143,14 @@
     <itunes:duration>285</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
 </item>
-</channel>
+
+    <item>
+      <title>天津港智慧码头注入 | 日联科技9.36亿收购菲莱测试 | 日本制铁141亿美元完成收购US Steel | 意大利银行306亿欧元竞购战</title>
+      <description>今日并购早报聚焦：天津港拟收购集团旗下智慧零碳码头和集装箱码头资产；日联科技9.36亿收购菲莱测试切入半导体检测；锐新科技、华瓷股份等A股并购持续推进；中金公司股东会通过1139亿吸并东兴信达议案；日本制铁141亿美元完成收购US Steel；意大利Intesa 306亿欧元竞购Monte dei Paschi；Ingredion 36亿美元收购Tate & Lyle；强生、Incyte、Roche医药并购合计超50亿美元。</description>
+      <pubDate>Tue, 09 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="http://tfj4kn7fa.hd-bkt.clouddn.com/audio/2026-06-09.mp3" length="944877" type="audio/mpeg"/>
+      <itunes:duration>3:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
 </rss>
