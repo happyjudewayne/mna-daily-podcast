@@ -169,6 +169,14 @@
     <itunes:duration>3:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>并购早报 2026-06-12</title>
+    <description>今日并购市场热点：云维股份跨界电力新能源、常铝股份控制权变更、天汽模18.3亿收购、北交所并购概念持续活跃</description>
+    <pubDate>Fri, 12 Jun 2026 07:00:00 GMT</pubDate>
+    <enclosure url="http://tfj4kn7fa.hd-bkt.clouddn.com/audio/2026-06-12.mp3" length="846477" type="audio/mpeg"/>
+    <itunes:duration>3:31</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 
   </channel>
 </rss>
