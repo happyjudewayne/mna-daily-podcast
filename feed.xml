@@ -378,5 +378,13 @@
       <itunes:duration>347</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>并购早报 2026-07-04</title>
+      <description>2026-07-04 并购市场速报 - 萌丫头 &amp; 京腔侃爷 双人播客</description>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="http://tfj4kn7fa.hd-bkt.clouddn.com/audio/2026-07-04.mp3" length="1156173" type="audio/mpeg"/>
+      <itunes:duration>288</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
