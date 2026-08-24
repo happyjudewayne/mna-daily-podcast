@@ -810,5 +810,13 @@
       <itunes:duration>279</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>并购早报 2026-08-25</title>
+      <description>2026-08-25 并购市场速报 - 萌丫头 &amp; 京腔侃爷 双人播客</description>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://happyjudewayne.github.io/mna-daily-podcast/audio/2026-08-25.mp3" length="1371405" type="audio/mpeg"/>
+      <itunes:duration>342</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
